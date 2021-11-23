@@ -1,2 +1,3 @@
 This is file b.txt
 This is line two added in new_branch.
+Line 3 modified in new_branch.
