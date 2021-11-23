@@ -1,3 +1,4 @@
 This is file a.txt.
 This is line second.
 This line 3 locally added.
+This is line three.
